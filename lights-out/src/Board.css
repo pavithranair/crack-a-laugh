@@ -1,3 +1,17 @@
 .Board {
   margin: 0 auto;
 }
+
+.orange-glow {
+  color: #ff8300;
+  text-shadow: 0 0 3vw #f40a35;
+  font-family: neon;
+	font-size: 100px;
+}
+
+.blue-glow {
+  color: #04d9ff;
+  text-shadow: 0 0 3vw #5c0af4;
+  font-family: neon;
+	font-size: 100px;
+}
